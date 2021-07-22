@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "read-excel-file": "^2.0.2",
-    "xlsx": "^0.14.0"
+    "xlsx": "^0.17.0"
   }
 }
